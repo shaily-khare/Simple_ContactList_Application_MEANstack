@@ -12,7 +12,7 @@ This repo contains the code for a RESTful API Contact List App that was built us
 
 <h3>Inspiration: YouTube Tutorial- MEAN stack</h3>
 
-<h4><a href="https://www.youtube.com/watch?v=kHV7gOHvNdk&index=1&list=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U"></h4>
+<h4>https://www.youtube.com/watch?v=kHV7gOHvNdk&index=1&list=PLX2HoWE32I8Nkzw2TqcifObuhgJZz8a0U</h4>
 
 <h3>Instructions</h3>
 
